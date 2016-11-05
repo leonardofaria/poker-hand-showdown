@@ -1,0 +1,7 @@
+{
+  "extends": "airbnb",
+  "format": "stylish",
+  "env": {
+    "browser": true,
+  }
+}
