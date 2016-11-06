@@ -38,6 +38,9 @@ Joe
 
 [Demo](http://leonardofaria.github.io/poker-hand-showdown)
 
+- JS: The ES 6 code is transpiled to ES 5 using browserify and babelify. This project also uses Airbnb's ESLint.
+- CSS: The UI is built using SASS
+
 -----
 
 ## Installation
